@@ -1,4 +1,4 @@
-# scalaspark
+# Data Science with Spark and Scala
 Repo for learning scala and spark.
 
 I used the Almond scala kernel (https://almond.sh/docs/try-docker) for Jupyter Notebooks from the docker image 
